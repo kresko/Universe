@@ -10,6 +10,27 @@
 	background-size: cover;  
 }
 
+.universe {
+	background-image: url('../images/universe2.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+
+.galaxy {
+	background-image: url('../images/andromeda.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+
+.stars {
+	background-image: url('../images/supernova.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+
 header {
 	ul {
 		list-style: none;
